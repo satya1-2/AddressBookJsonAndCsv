@@ -1,4 +1,4 @@
-package com.addressBookJson;
+package com.writieAndReadFileInCsv;
 
 public class NewContact {
     String firstName;
@@ -75,6 +75,7 @@ public class NewContact {
         return " name " + this.firstName + " lastname " + this.lastName + " state " + this.state + " zip" + this.zip + " phoneNumber " + this.phoneNumber +
                 "gmail" + this.email;
     }
+
 }
 
 
